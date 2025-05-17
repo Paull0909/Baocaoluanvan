@@ -1,0 +1,2 @@
+thiếu sơ đồ chức năng:chấm công, thực đơn, danh mục thực đơn, 
+sửa lại quản lý kho : quản lý danh mục hàng hóa, hàng hóa, phiếu nhập, phiếu xuất,
